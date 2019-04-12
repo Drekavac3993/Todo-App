@@ -1,5 +1,12 @@
 .item-add-form {
-    display: flex;
-    flex-direction: row-reverse;
     margin-top: 10px;
+}
+
+.item-add-form input {
+    margin-right: 3px;
+    max-width: 80%;
+}
+
+.btn-add-item {
+    width: 27.7%;
 }
