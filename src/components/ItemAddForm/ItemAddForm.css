@@ -1,0 +1,5 @@
+.item-add-form {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 10px;
+}
